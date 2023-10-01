@@ -1,4 +1,4 @@
-# Jogo de dados de Zumbi (Zumbi Dice)
+# Jogo de dados - Zumbi Dice
 
 Projeto do curso de Análise e Desenvolvimento de Sistemas da PUC-PR
 
